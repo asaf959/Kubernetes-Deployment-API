@@ -1,5 +1,5 @@
 {
-  "name": "k8s-deployment-api",
+  "name": "k8s-deployment-apis",
   "version": "1.0.0",
   "description": "REST API (NestJS + TypeScript) that accepts deployment requests and generates Kubernetes manifests on-the-fly",
   "author": "",
